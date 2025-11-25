@@ -1,6 +1,6 @@
 # 中文RSS精选订阅目录 | 优质RSS源合集+一键订阅链接
 
-> **SEO关键词**：中文RSS精选源、优质RSS订阅链接、2025RSS推荐列表、RSS阅读器源合集、精选RSS目录  
+中文RSS精选源、优质RSS订阅链接、2025RSS推荐列表、RSS阅读器源合集、精选RSS目录  
 > **适用场景**：RSS阅读器订阅（Feedly、Inoreader、NetNewsWire等）、信息聚合、高效获取资讯  
 
 ## 🎯 精选推荐（高价值RSS源）
