@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+	<head>
+		<title>reddit.opml</title>
+	</head>
+<body>
+	<outline text="Reddit" title="Reddit">
+		<outline text="User Experience" title="User Experience" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/userexperience/" xmlUrl="https://www.reddit.com/r/userexperience/.rss"/>
+		<outline text="Personal Finance" title="Personal Finance" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/personalfinance/" xmlUrl="https://www.reddit.com/r/personalfinance/.rss"/>
+		<outline text="📺 Television Discussion and News" title="📺 Television Discussion and News" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/television/" xmlUrl="https://www.reddit.com/r/television/.rss"/>
+		<outline text="Tennis News &amp; Discussion" title="Tennis News &amp; Discussion" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/tennis/" xmlUrl="https://www.reddit.com/r/tennis/.rss"/>
+		<outline text="eBay Newsroom" title="eBay Newsroom" description="" type="rss" version="RSS" htmlUrl="https://www.ebayinc.com/stories/news/rss/" xmlUrl="https://www.ebayinc.com/stories/news/rss/"/>
+		<outline text="Reddit Sports" title="Reddit Sports" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/sports" xmlUrl="https://www.reddit.com/r/sports.rss"/>
+		<outline text="r/Apple: Unofficial Apple Community" title="r/Apple: Unofficial Apple Community" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/apple/" xmlUrl="https://www.reddit.com/r/apple/.rss"/>
+		<outline text="r/iPhone" title="r/iPhone" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/iphone/" xmlUrl="https://www.reddit.com/r/iphone/.rss"/>
+		<outline text="r/gaming" title="r/gaming" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/gaming" xmlUrl="https://www.reddit.com/r/gaming.rss"/>
+		<outline text="Movie News and Discussion" title="Movie News and Discussion" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/movies/" xmlUrl="https://www.reddit.com/r/movies/.rss"/>
+		<outline text="Reddit Science" title="Reddit Science" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/science/" xmlUrl="https://www.reddit.com/r/science/.rss"/>
+		<outline text="So many books, so little time" title="So many books, so little time" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/books/" xmlUrl="https://www.reddit.com/r/books/.rss"/>
+		<outline text="programming" title="programming" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/programming/" xmlUrl="https://www.reddit.com/r/programming/.rss"/>
+		<outline text="r/technology" title="r/technology" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/technology/" xmlUrl="https://www.reddit.com/r/technology/.rss"/>
+		<outline text="r/ios" title="r/ios" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/ios/" xmlUrl="https://www.reddit.com/r/ios/.rss"/>
+		<outline text="r/android" title="r/android" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/android/" xmlUrl="https://www.reddit.com/r/android/.rss"/>
+		<outline text="r/webdev" title="r/webdev" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/webdev/" 
+	</outline>
+	</body>
+</opml>

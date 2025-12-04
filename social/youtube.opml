@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+	<head>
+		<title>youtube.opml</title>
+	</head>
+<body>
+	<outline text="Youtube" title="Youtube">
+		<outline text="Dwarkesh Patel" title="Dwarkesh Patel" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCXl4i9dYBrFOabk0xGmbkRA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXl4i9dYBrFOabk0xGmbkRA"/>
+		<outline text="Serious Eats" title="Serious Eats" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=SeriousEats"/>
+		<outline text="Fireship" title="Fireship" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"/>
+		<outline text="England &amp; Wales Cricket Board" title="England &amp; Wales Cricket Board" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCz1D0n02BR3t51KuBOPmfTQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ecbcricket"/>
+		<outline text="Liam Ottley" title="Liam Ottley" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCui4jxDaMb53Gdh-AZUTPAg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCui4jxDaMb53Gdh-AZUTPAg"/>
+		<outline text="Sequoia Capital" title="Sequoia Capital" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWrF0oN6unbXrWsTN7RctTw"/>
+		<outline text="Siraj Raval" title="Siraj Raval" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWN3xxRkmTPmbKwht9FuE5A"/>
+		<outline text="The Diary Of A CEO Clips" title="The Diary Of A CEO Clips" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnjgxChqYYnyoqO4k_Q1d6Q"/>
+		<outline text="Jason West" title="Jason West" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCQ-rZd0NpjXYTpB3y5BNxPw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-rZd0NpjXYTpB3y5BNxPw"/>
+		<outline text="No Priors: AI, Machine Learning, Tech, &amp; Startups" title="No Priors: AI, Machine Learning, Tech, &amp; Startups" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCSI7h9hydQ40K5MJHnCrQvw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSI7h9hydQ40K5MJHnCrQvw"/>
+		<outline text="All-In Podcast" title="All-In Podcast" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCESLZhusAkFfsNsApnjF_Cg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCESLZhusAkFfsNsApnjF_Cg"/>
+		<outline text="Android Developers" title="Android Developers" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=androiddevelopers"/>
+		<outline text="GaryVee" title="GaryVee" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk"/>
+		<outline text="SpaceX" title="SpaceX" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=spacexchannel"/>
+		<outline text="Linus Tech Tips" title="Linus Tech Tips" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips"/>
+		<outline text="Spring I/O" title="Spring I/O" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLMPXsvSrhNPN3i9h-u8PYg"/>
+		<outline text="Architectural Digest" title="Architectural Digest" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC0k238zFx-Z8xFH0sxCrPJg" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest"/>
+		<outline text="Bon Appétit" title="Bon Appétit" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom"/>
+		<outline text="droidcon SF" title="droidcon SF" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCKubKoe1CBw_-n_GXetEQbg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg"/>
+		<outline text="Kotlin" title="Kotlin" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy"/>
+		<outline text="Marques Brownlee" title="Marques Brownlee" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee"/>
+		<outline text="TED" title="TED" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug"/>
+		<outline text="Unbox Therapy" title="Unbox Therapy" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=unboxtherapy"/>
+		<outline text="Laura in the Kitchen" title="Laura in the Kitchen" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCNbngWUqL2eqRw12yAwcICg" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen"/>
+		<outline text="Riley Brown" title="Riley Brown" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMcoud_ZW7cfxeIugBflSBw"/>
+		<outline text="OpenAI" title="OpenAI" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A"/>
+		<outline text="Google TechTalks" title="Google TechTalks" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks"/>
+		<outline text="Google DeepMind" title="Google DeepMind" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A"/>
+		<outline text="ByteByteGo" title="ByteByteGo" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZgt6AzoyjslHTC9dz0UoTw"/>
+		<outline text="Tina Huang" title="Tina Huang" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2UXDak6o7rBm23k3Vv5dww"/>
+		<outline text="Apple" title="Apple" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple"/>
+		<outline text="Product School" title="Product School" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6hlQ0x6kPbAGjYkoz53cvA"/>
+		<outline text="Android Authority" title="Android Authority" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority"/>
+		<outline text="yobi321" title="yobi321" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCB_DbqNN9w30tnyWJSrIwyA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCB_DbqNN9w30tnyWJSrIwyA"/>
+		<outline text="Sri Lanka Cricket" title="Sri Lanka Cricket" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC"/>
+		<outline text="cricket.com.au" title="cricket.com.au" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCkBY0aHJP9BwjZLDYxAQrKg" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv"/>
+		<outline text="Living Big In A Tiny House" title="Living Big In A Tiny House" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCoNTMWgGuXtGPLv9UeJZwBw" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse"/>
+		<outline text="Andrej Karpathy" title="Andrej Karpathy" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"/>
+		<outline text="freeCodeCamp.org" title="freeCodeCamp.org" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ"/>
+		<outline text="Pakistan Cricket" title="Pakistan Cricket" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw"/>
+		<outline text="Lex Fridman" title="Lex Fridman" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA"/>
+		<outline text="Binging with Babish" title="Binging with Babish" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=bgfilms"/>
+		<outline text="Business Insider" title="Business Insider" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=businessinsider"/>
+		<outline text="Marie Forleo" title="Marie Forleo" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCuoxrRDDgk3UUnxR4tlkJYQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo"/>
+		<outline text="Anthropic" title="Anthropic" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCrDwWp7EBBv4NwvScIpBDOA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA"/>
+		<outline text="Bloomberg Originals" title="Bloomberg Originals" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Bloomberg"/>
+		<outline text="Cricbuzz" title="Cricbuzz" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCSRQXk5yErn4e14vN76upOw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw"/>
+		<outline text="Two Minute Papers" title="Two Minute Papers" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"/>
+		<outline text="Wes Roth" title="Wes Roth" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqcbQf6yw5KzRoDDcZ_wBSw"/>
+		<outline text="MacRumors" title="MacRumors" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCaFGDBmGK_jw66u3av2Ysjw" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=macrumors"/>
+		<outline text="Lenny's Podcast" title="Lenny's Podcast" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC6t1O76G0jYXOAoYCm153dA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6t1O76G0jYXOAoYCm153dA"/>
+		<outline text="Matthew Berman" title="Matthew Berman" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA"/>
+		<outline text="Last Week in AI" title="Last Week in AI" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCKARTq-t5SPMzwtft8FWwnA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKARTq-t5SPMzwtft8FWwnA"/>
+		<outline text="My First Million" title="My First Million" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyaN6mg5u8Cjy2ZI4ikWaug"/>
+		<outline text="Stripe" title="Stripe" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM1guA1E-RHLO2OyfQPOkEQ"/>
+		<outline text="droidcon NYC" title="droidcon NYC" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCSLXy31j2Z0sdDeeAX5JpPw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw"/>
+		<outline text="Greg Isenberg" title="Greg Isenberg" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCPjNBjflYl0-HQtUvOx0Ibw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"/>
+		<outline text="Matt Wolfe" title="Matt Wolfe" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UChpleBmo18P08aKCIgti38g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g"/>
+		<outline text="leerob" title="leerob" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCZMli3czZnd1uoc1ShTouQw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZMli3czZnd1uoc1ShTouQw"/>
+		<outline text="The Verge" title="The Verge" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheVerge"/>
+		<outline text="LangChain" title="LangChain" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw"/>
+		<outline text="Hung-yi Lee" title="Hung-yi Lee" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2ggjtuuWvxrHHHiaDH1dlQ"/>
+		<outline text="Y Combinator" title="Y Combinator" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg"/>
+	</outline>
+	</body>
+</opml>
